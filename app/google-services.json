@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "114044649492",
+    "firebase_url": "https://unofficial-upc.firebaseio.com",
+    "project_id": "unofficial-upc",
+    "storage_bucket": "unofficial-upc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114044649492:android:554956337a03ca7b",
+        "android_client_info": {
+          "package_name": "com.brunoaybar.unofficialupc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114044649492-qlf9v2og4f4hpgjvi8d4sqnl4o8li4ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALDIp0DZlDWFHNS97-dkD5I2_MCQ3RF8o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
